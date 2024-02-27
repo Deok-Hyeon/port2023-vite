@@ -11,10 +11,10 @@
     padding: 16px;
 }
 .intro__title {
-    font-size: 10vw;
+    font-size: 3vw;
     text-transform: uppercase;
     line-height: 1;
-    font-weight: 800;
+    font-weight: 600;
     white-space: nowrap;
     text-indent: -0.5vw;
     letter-spacing: -0.3vw;
@@ -31,11 +31,11 @@
     position: relative;
 }
 .intro__text .text {
-    font-size: 3vw;
+    font-size: 2vw;
     line-height: 1;
-    font-weight: 900;
+    font-weight: 700;
     text-transform: uppercase;
-    text-decoration: underline;
+    /* text-decoration: underline; */
     text-align: center;
     position: relative;
     z-index: 100;
