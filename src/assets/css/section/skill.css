@@ -1,4 +1,4 @@
-.slkll__inner {
+.skill__inner {
     padding: 16px;
     display: flex;
     justify-content: space-between;
@@ -41,7 +41,6 @@
 .skill__desc p {
     margin-bottom: 30vh;
     font-size: 1.1rem;
-    width: 100%;
 }
 @media (max-width: 800px){
     .slkll__inner {
